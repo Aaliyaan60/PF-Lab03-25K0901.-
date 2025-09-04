@@ -8,6 +8,6 @@ Hobbies:
 Languages:
 1. Java
 2. CPP
-3. C
+3. C \
 **Bold Statement**\
 _Italic Statement_
