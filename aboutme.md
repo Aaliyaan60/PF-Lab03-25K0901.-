@@ -1,3 +1,3 @@
 **Name:** Aaliyaan Ameen\
-**Program:** Computer Science**\
-Hobby:** Singing
+**Program:** Computer Science\
+**Hobby:** Singing
